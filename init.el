@@ -1,3 +1,5 @@
+;;; author: Noemi
+
 ;; ..:: use-package ::..
 
 (require 'package)
